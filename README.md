@@ -63,6 +63,15 @@ I'm a Computer Engineering student with a passion for learning and personal grow
 
 </span>
 
+## Check out my Social Media
+<a href="https://www.instagram.com/marianov200/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.facebook.com/mariano.oconitrillo.90">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<a href="https://www.linkedin.com/in/mariano-oconitrillo-2327ab26b/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
 ## Github stats: 
 <span>
 <p>
