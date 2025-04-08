@@ -72,10 +72,5 @@ I'm a Computer Engineering student with a passion for learning and personal grow
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
-## Github stats: 
-<span>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4R14N0CR&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4R14N0CR&theme=react&layout=compact" />
-</p>
+
 
