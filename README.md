@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN2aWtuOHZlcXUxbXE5YWYxcHo5ZWx0OHF1MzNjejJ4MmM0NmF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" width = 300px></picture>
 I'm a Computer Engineering student with a passion for learning and personal growth. I enjoy exploring diverse topics and expanding my understanding of the field. My focus is on continuous improvement and sharing insights as I progress in my studies.
 
-- :technologist: Passionate about technologies related to Data Analysis/Data Science, Web Programming, and Automation
+- :technologist: Passionate about technologies related to Cybersecurity, Web Programming, and Penetration testing.
 - 💻: Currently learning about Cybersecurity
 - :handshake: I'm friendly and love collaborating with the community—feel free to reach out anytime without any obligation!
 
