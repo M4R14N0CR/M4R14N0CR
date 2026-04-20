@@ -8,7 +8,7 @@
 I'm a Computer Engineering student with a passion for learning and personal growth. I enjoy exploring diverse topics and expanding my understanding of the field. My focus is on continuous improvement and sharing insights as I progress in my studies.
 
 - :technologist: Passionate about technologies related to Data Analysis/Data Science, Web Programming, and Automation
-- :cloud: Currently learning about Cloud Computing
+- 💻: Currently learning about Cybersecurity
 - :handshake: I'm friendly and love collaborating with the community—feel free to reach out anytime without any obligation!
 
 <br>
